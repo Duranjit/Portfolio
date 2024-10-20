@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion"; // Import motion for animations
 import { styles } from "../styles"; // Import your styles
 import { fadeIn } from "../utils/motion"; // Import your animation variants
-import { services } from "../constant"; // Ensure this is correctly imported
+import { services } from "../Constant"; // Ensure this is correctly imported
 import { Tilt } from "react-tilt";
 import { SectionWrapper } from "../hoc"; // Use named import if that's how it's defined
 
