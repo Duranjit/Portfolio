@@ -4,8 +4,6 @@ import {
   creator,
   web,
   javascript,
-  typescript,
-  html,
   css,
   reactjs,
   tailwind,
@@ -40,6 +38,7 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  { id: "contact", title: "Contact" },
 ];
 
 const services = [
