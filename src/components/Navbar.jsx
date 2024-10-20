@@ -12,7 +12,7 @@ const Navbar = () => {
     { id: "about", title: "About" },
     { id: "experience", title: "Experience" },
     { id: "works", title: "Works" },
-    { id: "contact", title: "Contact" },
+    { id: "Contact", title: "contact" },
   ];
 
   return (
